@@ -1,0 +1,35 @@
+# Ignore the videos directory where downloaded videos are stored
+/videos/
+
+# Ignore the virtual environment folder
+/venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and editor specific files (add any specific to your editor)
+.vscode/
+.idea/
+
+# Ignore environment files (for example, virtualenv configuration files)
+.env
+.venv
+
+# Ignore the requirements.txt if you regenerate it dynamically
+requirements.txt
+
+# Ignore logs, temporary files, and other generated content
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Ignore system files on macOS and Windows
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
