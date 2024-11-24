@@ -1,6 +1,6 @@
 # Ignore the videos directory where downloaded videos are stored
 /videos/
-
+./videos/
 # Ignore the virtual environment folder
 /venv/
 
