@@ -1,8 +1,12 @@
 # Ignore the videos directory where downloaded videos are stored
 /videos/
-./videos/
+
 # Ignore the virtual environment folder
 /venv/
+
+/music/
+/downloads/
+/videos/
 
 # Ignore Python bytecode files
 __pycache__/
