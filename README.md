@@ -23,5 +23,5 @@ pip install -r requirements.txt
 ## Usage
 run the application:
 ```bash
-python omar_downloader.py
+python main.py
 ```
