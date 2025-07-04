@@ -10,8 +10,7 @@ A simple and lightweight Python-based file downloader using a graphical interfac
 
 ## Requirements
 
-- Python 3.x
-- `requests`
+- in `requirements.txt`
 
 ## Installation
 
