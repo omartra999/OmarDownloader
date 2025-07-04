@@ -1,6 +1,6 @@
 # OmarDownloader
 
-A simple and lightweight Python-based file downloader using a graphical interface.
+A simple and lightweight Python-based music downloader using a graphical interface.
 
 ## Features
 
